@@ -2,7 +2,7 @@
 
 Website for Lakshmi Electricals, a Class 'A' electrical contractor based in Kozhikode, Kerala.
 
-**Live site:** [YOUR-RENDER-LINK](lakshmi-electricals-c98o.onrender.com)
+**Live site:** [lakshmi-electricals-c98o.onrender.com](lakshmi-electricals-c98o.onrender.com)
 
 ## Features
 - Overview of the company
