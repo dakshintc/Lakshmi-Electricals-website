@@ -1,0 +1,6 @@
+{
+  "name": "Lakshmi Electrical Contractors",
+  "description": "Licensed electrical engineering and turnkey contracting specialists for commercial, industrial, institutional, and solar infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
